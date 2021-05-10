@@ -25,7 +25,7 @@ def predict_note_authentication():
 def predict_note_file():
     df_test = pd.read_csv(request.files.get('file'))
     prediction = classifier.predict(df_test)
-    return "Prediction values for txt is " + str(list(prediction))
+    return "Prediction values for txt file is " + str(list(prediction))
 
 
 if __name__ == '__main__':
