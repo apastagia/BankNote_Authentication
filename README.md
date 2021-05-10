@@ -13,3 +13,14 @@ Dataset link: https://www.kaggle.com/ritesaluja/bank-note-authentication-uci-dat
 ### Postman Output
 
 ![Postman](https://user-images.githubusercontent.com/62986688/117571512-7cf2f600-b0ec-11eb-875e-7a3bd2cc3ee1.png)
+
+### Webapp Using Flasgger
+![flasgger_1](https://user-images.githubusercontent.com/62986688/117620842-85037200-b18e-11eb-8537-bb63dc1f4a4c.png)
+
+![flasgger_Get](https://user-images.githubusercontent.com/62986688/117620859-892f8f80-b18e-11eb-957b-c7af9c27cfec.png)
+
+![flasgger_Get_Response](https://user-images.githubusercontent.com/62986688/117620869-8d5bad00-b18e-11eb-89e1-07b0e3ebcbf4.png)
+
+![flasgger_Post](https://user-images.githubusercontent.com/62986688/117620883-9187ca80-b18e-11eb-8bd4-4f31520a0617.png)
+
+![flasgger_Post_Response](https://user-images.githubusercontent.com/62986688/117620893-964c7e80-b18e-11eb-9537-55bbf4634160.png)
