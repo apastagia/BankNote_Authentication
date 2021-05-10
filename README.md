@@ -4,6 +4,7 @@ Machine Learning Project - Flask - Docker
 
 Dataset link: https://www.kaggle.com/ritesaluja/bank-note-authentication-uci-data
 
+**In this project postman is not necessary, you can see your output via any browser.**
 ## Postman
 
 * Postman is a standalone software testing API (Application Programming Interface) platform to build, test, design, modify, and document APIs. It is a simple Graphic User Interface for sending and viewing HTTP requests and responses.
@@ -14,7 +15,7 @@ Dataset link: https://www.kaggle.com/ritesaluja/bank-note-authentication-uci-dat
 
 ![Postman](https://user-images.githubusercontent.com/62986688/117571512-7cf2f600-b0ec-11eb-875e-7a3bd2cc3ee1.png)
 
-### Webapp Using Flasgger
+### Webapp Using Flasgger - Swagger API
 ![flasgger_1](https://user-images.githubusercontent.com/62986688/117620842-85037200-b18e-11eb-8537-bb63dc1f4a4c.png)
 
 ![flasgger_Get](https://user-images.githubusercontent.com/62986688/117620859-892f8f80-b18e-11eb-957b-c7af9c27cfec.png)
