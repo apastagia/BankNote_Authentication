@@ -14,6 +14,9 @@ Dataset link: https://www.kaggle.com/ritesaluja/bank-note-authentication-uci-dat
 ## Docker
 Docker is a set of platform as a service products that use OS-level virtualization to deliver software in packages called containers. Containers are isolated from one another and bundle their own software, libraries and configuration files; they can communicate with each other through well-defined channels.
 
+### Docker installation
+https://docs.docker.com/docker-for-windows/install/
+
 ### Postman Output
 
 ![Postman](https://user-images.githubusercontent.com/62986688/117571512-7cf2f600-b0ec-11eb-875e-7a3bd2cc3ee1.png)
