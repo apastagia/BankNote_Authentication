@@ -33,3 +33,4 @@ https://docs.docker.com/docker-for-windows/install/
 ![flasgger_Post_Response](https://user-images.githubusercontent.com/62986688/117620893-964c7e80-b18e-11eb-9537-55bbf4634160.png)
 
 ## Streamlit WebApp
+![image](https://user-images.githubusercontent.com/62986688/118081753-9e4c2e80-b3d9-11eb-9684-d9f6a318a730.png)
