@@ -1,5 +1,5 @@
 # BankNote_Authentication
-Machine Learning Project - Flask - Docker
+Machine Learning Project + Flask + Docker + Streamlit + Postman
 
 
 Dataset link: https://www.kaggle.com/ritesaluja/bank-note-authentication-uci-data
